@@ -1,1 +1,5 @@
-# .github
+This is the github home of the project [“Die alexandrinische und antiochenische Bibelexegese in der Spätantike”](https://bibelexegese.bbaw.de) at [Berlin Brandenburg Academy of Sciences and Humanities (BBAW)](https://www.bbaw.de). The project is part of the [Academies Programme](http://www.akademienunion.de/forschung/akademienprogramm/), a research funding programme co-financed by the German federal government and individual federal states. Coordinated by the [Union of the German Academies of Sciences and Humanities](http://www.akademienunion.de/akademienunion/ueber-uns/), the programme intends to retrieve and explore our cultural heritage, to make it accessible and highlight its relevance to the present, as well as to preserve it for future.
+
+The repositories here contain data connected to the book series edited by the project, “Die griechischen christlichen Schriftsteller der ersten Jahrhunderte (GCS)” and “Texte und Untersuchungen zur Geschichte der altchristlichen Literatur (TU)”.
+
+For more see also [https://github.com/PatristicTextArchive](https://github.com/PatristicTextArchive).
